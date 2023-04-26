@@ -1,8 +1,8 @@
 [{
     "sno":1,
     "name":"print name",
-    "ques_link":"http://google.com",
-    "video_link":"http://google.com",
-    "sol_link":"http://google.com"
+    "ques_link":"https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/",
+    "video_link":"https://www.youtube.com/watch?v=AJp--V7ayKI&t=28s",
+    "sol_link":"https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/solutions/1313293/java/"
     
 }]
