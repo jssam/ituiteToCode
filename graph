@@ -1,3 +1,450 @@
 [
-    
+ {
+   "sno": 1,
+   "name": "what is graph, edges, vertices, node?",
+   "ques_link": "",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 2,
+   "name": "print all paths",
+   "ques_link": "https://www.geeksforgeeks.org/find-paths-given-source-destination/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 3,
+   "name": "Multisolver -  Longest, Floor, Kthlargest Path",
+   "ques_link": "https://www.pepcoding.com/resources/online-java-foundation/graphs/mutilsovler-graph-official/ojquestion",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 4,
+   "name": "Number of Provinces",
+   "ques_link": "https://practice.geeksforgeeks.org/problems/number-of-provinces/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 5,
+   "name": "what is hamiltonion path?",
+   "ques_link": "",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 6,
+   "name": "what is hamiltonion cycle?",
+   "ques_link": "",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 7,
+   "name": "Hamiltonian Cycle",
+   "ques_link": "https://www.geeksforgeeks.org/hamiltonian-cycle-backtracking-6/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 8,
+   "name": "has path ?",
+   "ques_link": "https://www.geeksforgeeks.org/find-if-there-is-a-path-between-two-vertices-in-an-undirected-graph/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 9,
+   "name": "Multisolver - Smallest, Ceil, Kthlargest Path",
+   "ques_link": "https://www.pepcoding.com/resources/online-java-foundation/graphs/mutilsovler-graph-official/ojquestion",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 10,
+   "name": "perfect friends",
+   "ques_link": "https://www.pepcoding.com/resources/online-java-foundation/graphs/perfect-friends-official/ojquestion",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 11,
+   "name": "bfs and dfs traversal?",
+   "ques_link": "",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 12,
+   "name": "what is cyclic and acyclic graph?",
+   "ques_link": "",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 13,
+   "name": "what is bidirectional and unidirectional graph?",
+   "ques_link": "",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 14,
+   "name": "detect cycle",
+   "ques_link": "https://www.geeksforgeeks.org/detect-cycle-undirected-graph/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 15,
+   "name": "discussion",
+   "ques_link": "what is bipartite graph",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 16,
+   "name": "Possible Bipartition",
+   "ques_link": "https://leetcode.com/problems/possible-bipartition/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 17,
+   "name": "rotten oranges",
+   "ques_link": "https://leetcode.com/problems/rotting-oranges/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 18,
+   "name": "number of distinct island",
+   "ques_link": "https://practice.geeksforgeeks.org/problems/number-of-distinct-islands/1",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 19,
+   "name": "Spread Of Infection",
+   "ques_link": "https://www.pepcoding.com/resources/online-java-foundation/graphs/infection-spread-official/ojquestion",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 20,
+   "name": "number of islands",
+   "ques_link": "https://leetcode.com/problems/number-of-islands/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 21,
+   "name": "Number of Enclaves",
+   "ques_link": "https://leetcode.com/problems/number-of-enclaves/description/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 22,
+   "name": "what is spanning tree? ",
+   "ques_link": "",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 23,
+   "name": "what is minimum spaninng tree?",
+   "ques_link": "",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 24,
+   "name": "Minimum Spanning Tree",
+   "ques_link": "https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 25,
+   "name": "what is dijkstras?",
+   "ques_link": "",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 26,
+   "name": "deep difference betweek prims and dijkstras?",
+   "ques_link": "",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 27,
+   "name": "high level understanding of belmanford and floyd?",
+   "ques_link": "",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 28,
+   "name": "Implementing Dijkstra Algorithm",
+   "ques_link": "https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 29,
+   "name": "01 matrix",
+   "ques_link": "https://leetcode.com/problems/01-matrix/description/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 30,
+   "name": "discussion ",
+   "ques_link": "What is belmanford",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 31,
+   "name": "Negative weight cycle",
+   "ques_link": "https://practice.geeksforgeeks.org/problems/negative-weight-cycle3504/1#",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 32,
+   "name": "network delay time",
+   "ques_link": "https://leetcode.com/problems/network-delay-time/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 33,
+   "name": "path with minimum effort",
+   "ques_link": "https://leetcode.com/problems/path-with-minimum-effort/description/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 34,
+   "name": "discussion",
+   "ques_link": "what is connected components ",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 35,
+   "name": "Strongly Connected Components (Kosaraju's Algo)",
+   "ques_link": "https://practice.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 36,
+   "name": "Strongly connected component (Tarjans's Algo)",
+   "ques_link": "https://practice.geeksforgeeks.org/problems/strongly-connected-component-tarjanss-algo-1587115621/1",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 37,
+   "name": "Swim in Rising Water",
+   "ques_link": "https://leetcode.com/problems/swim-in-rising-water/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 38,
+   "name": "mother vertex",
+   "ques_link": "https://practice.geeksforgeeks.org/problems/mother-vertex/1",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 39,
+   "name": "discussion",
+   "ques_link": "what is topological sort?",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 40,
+   "name": "topological sort",
+   "ques_link": "https://practice.geeksforgeeks.org/problems/topological-sort/1",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 41,
+   "name": "discussion ",
+   "ques_link": "explain khans algorithm",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 42,
+   "name": "topological sort",
+   "ques_link": "https://practice.geeksforgeeks.org/problems/topological-sort/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 43,
+   "name": "cource schedule",
+   "ques_link": "https://leetcode.com/problems/course-schedule/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 44,
+   "name": "cource schedule 2",
+   "ques_link": "https://leetcode.com/problems/course-schedule-ii/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 45,
+   "name": "alien dictionary",
+   "ques_link": "https://www.lintcode.com/problem/892/?fromId=201&_from=collection",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 46,
+   "name": "discussion ",
+   "ques_link": "explain euclian path and euclian cycle",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 47,
+   "name": "reconstruct itenary",
+   "ques_link": "https://leetcode.com/problems/reconstruct-itinerary/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 48,
+   "name": "discussion ",
+   "ques_link": "what is union set?",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 49,
+   "name": "number of island 2 ",
+   "ques_link": "https://www.lintcode.com/problem/434/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 50,
+   "name": "region cut by slashes",
+   "ques_link": "https://leetcode.com/problems/regions-cut-by-slashes/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 51,
+   "name": "stablity of equations",
+   "ques_link": "https://leetcode.com/problems/satisfiability-of-equality-equations/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 52,
+   "name": "redundant connection",
+   "ques_link": "https://leetcode.com/problems/redundant-connection/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 53,
+   "name": "redundant connection-ii",
+   "ques_link": "https://leetcode.com/problems/redundant-connection-ii/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 54,
+   "name": "number of operations to make connection connected",
+   "ques_link": "https://leetcode.com/problems/number-of-operations-to-make-network-connected/description/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 55,
+   "name": "minimize malwware spread",
+   "ques_link": "https://leetcode.com/problems/minimize-malware-spread/description/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 56,
+   "name": "Most Stones Removed with Same Row or Column",
+   "ques_link": "https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 57,
+   "name": "making a large island",
+   "ques_link": "https://leetcode.com/problems/making-a-large-island/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 58,
+   "name": "discussion",
+   "ques_link": "explain krushkal algorithm for minimum spanning tree \nalso write the code for krushkals algrithm in personal ide",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 59,
+   "name": "optimise water distribution",
+   "ques_link": "https://www.pepcoding.com/resources/data-structures-and-algorithms-in-java-levelup/graphs/optimize-water-distribution-official/ojquestion",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 60,
+   "name": "discussion ",
+   "ques_link": "articulation point , articulation edge and bridge",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 61,
+   "name": "Count Servers that Communicate",
+   "ques_link": "https://leetcode.com/problems/count-servers-that-communicate/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 62,
+   "name": "Count Unreachable Pairs of Nodes in an Undirected Graph",
+   "ques_link": "https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 63,
+   "name": "Critical Connections in a Network",
+   "ques_link": "https://leetcode.com/problems/critical-connections-in-a-network/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 64,
+   "name": "Smallest Missing Genetic Value in Each Subtree",
+   "ques_link": "https://leetcode.com/problems/smallest-missing-genetic-value-in-each-subtree/",
+   "video_link": "",
+   "sol_link": ""
+ }
 ]
