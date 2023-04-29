@@ -1,3 +1,261 @@
 [
-    
+ {
+   "sno": 1,
+   "name": "what is node?",
+   "ques_link": "",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 2,
+   "name": "what is linked list?",
+   "ques_link": "",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 3,
+   "name": "what is difference in array and linked list?",
+   "ques_link": "",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 4,
+   "name": "why we are using linked list not arraylist ? reason with time complexity",
+   "ques_link": "",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 5,
+   "name": "create a linked list using node,and make the function such as add last , print linked list, size , remove first, remove mid",
+   "ques_link": "",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 6,
+   "name": "Delete a node in linked list at given position",
+   "ques_link": "https://practice.geeksforgeeks.org/problems/delete-a-node-in-single-linked-list/1",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 7,
+   "name": "reverse a linked list",
+   "ques_link": "https://leetcode.com/problems/reverse-linked-list/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 8,
+   "name": "remove nth node from end of the linked list",
+   "ques_link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 9,
+   "name": "middle of the linked list",
+   "ques_link": "https://leetcode.com/problems/middle-of-the-linked-list/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 10,
+   "name": "merge 2 sorted linked list",
+   "ques_link": "https://leetcode.com/problems/merge-two-sorted-lists/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 11,
+   "name": "insert a node at specific position of linked list",
+   "ques_link": "https://www.geeksforgeeks.org/insert-a-node-at-a-specific-position-in-a-linked-list/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 12,
+   "name": "delete a node in a linked list",
+   "ques_link": "https://leetcode.com/problems/delete-node-in-a-linked-list/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 13,
+   "name": "add two numbers",
+   "ques_link": "https://leetcode.com/problems/add-two-numbers/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 14,
+   "name": "subtract 2 linked list",
+   "ques_link": " https://practice.geeksforgeeks.org/problems/subtraction-in-linked-list/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 15,
+   "name": "multiply 2 linked list",
+   "ques_link": "https://practice.geeksforgeeks.org/problems/multiply-two-linked-lists/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 16,
+   "name": "detect a cycle in linked list",
+   "ques_link": "https://leetcode.com/problems/linked-list-cycle/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 17,
+   "name": "Linked List Cycle II",
+   "ques_link": "https://leetcode.com/problems/linked-list-cycle-ii/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 18,
+   "name": "palindrome linked list",
+   "ques_link": "https://leetcode.com/problems/palindrome-linked-list/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 19,
+   "name": "fold linked list",
+   "ques_link": "https://leetcode.com/problems/reorder-list/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 20,
+   "name": "revrese node in k groups",
+   "ques_link": "https://leetcode.com/problems/reverse-nodes-in-k-group/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 21,
+   "name": "intersecion of 2 linked list",
+   "ques_link": "https://leetcode.com/problems/intersection-of-two-linked-lists/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 22,
+   "name": "remove all dublicate from sorted linked list",
+   "ques_link": "https://leetcode.com/problems/remove-duplicates-from-sorted-list/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 23,
+   "name": "unfold linked list",
+   "ques_link": "https://www.geeksforgeeks.org/program-to-unfold-a-folded-linked-list/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 24,
+   "name": "0,1,2 sort in linked list",
+   "ques_link": "https://practice.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 25,
+   "name": "partition linked list",
+   "ques_link": "https://leetcode.com/problems/partition-list/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 26,
+   "name": "0,1 sorting linked list",
+   "ques_link": "https://www.geeksforgeeks.org/sort-a-linked-list-of-0s-and-1s/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 27,
+   "name": "segregate even and odd node of linked list",
+   "ques_link": "https://practice.geeksforgeeks.org/problems/segregate-even-and-odd-nodes-in-a-linked-list5035/1",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 28,
+   "name": "flattening  of linked list",
+   "ques_link": "https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 29,
+   "name": "copy list with random pointers",
+   "ques_link": "https://leetcode.com/problems/copy-list-with-random-pointer/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 30,
+   "name": "merge sort linked list",
+   "ques_link": "https://practice.geeksforgeeks.org/problems/sort-a-linked-list/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 31,
+   "name": "quick sort singly linked list",
+   "ques_link": "https://practice.geeksforgeeks.org/problems/quick-sort-on-linked-list/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 32,
+   "name": "rotate linked list",
+   "ques_link": "https://leetcode.com/problems/rotate-list/description/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 33,
+   "name": "discussion",
+   "ques_link": "what is doubly linked list and what to change in node classs to form it doubly linked list",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 34,
+   "name": "Insert node in a doubly linked list",
+   "ques_link": "https://course.acciojob.com/idle?question=c44249e8-0776-4bcf-883d-fbdad0c956a9",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 35,
+   "name": "delete a node in doubly linked list",
+   "ques_link": "https://practice.geeksforgeeks.org/problems/delete-node-in-doubly-linked-list/1",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 36,
+   "name": "flatten a multilevel doubly linked list",
+   "ques_link": "https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 37,
+   "name": "design browser history",
+   "ques_link": "https://leetcode.com/problems/design-browser-history/",
+   "video_link": "",
+   "sol_link": ""
+ }
 ]
