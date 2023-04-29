@@ -1,3 +1,457 @@
 [
-    
+ {
+   "sno": 1,
+   "name": " what is memoization?what is tabulation",
+   "ques_link": "why we do so?",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 2,
+   "name": "Fibonacci numbers",
+   "ques_link": "https://leetcode.com/problems/fibonacci-number/description/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 3,
+   "name": "climbing stairs",
+   "ques_link": "https://leetcode.com/problems/climbing-stairs/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 4,
+   "name": "climb stairs wih variable jump",
+   "ques_link": "https://www.pepcoding.com/resources/online-java-foundation/dynamic-programming-and-greedy/climb-stairs-with-variable-jumps-official/ojquestion",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 5,
+   "name": "Stickler Thief",
+   "ques_link": "https://practice.geeksforgeeks.org/problems/stickler-theif-1587115621/1",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 6,
+   "name": "gold mine problem",
+   "ques_link": "https://practice.geeksforgeeks.org/problems/gold-mine-problem2608/1",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 7,
+   "name": "gold mine problem",
+   "ques_link": "https://practice.geeksforgeeks.org/problems/gold-mine-problem2608/1",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 8,
+   "name": "climb stairs wih variable jump",
+   "ques_link": "https://www.pepcoding.com/resources/online-java-foundation/dynamic-programming-and-greedy/climb-stairs-with-variable-jumps-official/ojquestion",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 9,
+   "name": "Climb Stairs With Minimum Moves",
+   "ques_link": "https://www.pepcoding.com/resources/online-java-foundation/dynamic-programming-and-greedy/climb-stairs-with-minimum-moves-official/ojquestion",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 10,
+   "name": "Minimum Path Sum",
+   "ques_link": "https://leetcode.com/problems/minimum-path-sum/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 11,
+   "name": "Maximum sum of non-adjacent elements",
+   "ques_link": "codingninjas.com/codestudio/problems/maximum-sum-of-non-adjacent-elements_843261?source=youtube&campaign=striver_dp_videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_dp_videos",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 12,
+   "name": "subset sum problem",
+   "ques_link": "https://practice.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 13,
+   "name": "coin change",
+   "ques_link": "https://practice.geeksforgeeks.org/problems/coin-change2448/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 14,
+   "name": "Triangle",
+   "ques_link": "https://www.codingninjas.com/codestudio/problems/triangle_1229398?source=youtube&campaign=striver_dp_videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_dp_videos",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 15,
+   "name": "unique path",
+   "ques_link": "https://www.codingninjas.com/codestudio/problems/total-unique-paths_1081470?source=youtube&campaign=striver_dp_videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_dp_videos",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 16,
+   "name": "Paint House II",
+   "ques_link": "https://www.lintcode.com/problem/516/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 17,
+   "name": "paint fence",
+   "ques_link": "https://practice.geeksforgeeks.org/problems/painting-the-fence3727/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 18,
+   "name": "tilling m*1",
+   "ques_link": "https://www.pepcoding.com/resources/online-java-foundation/dynamic-programming-and-greedy/tiling2-official/ojquestion",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 19,
+   "name": "friends pairing",
+   "ques_link": "https://practice.geeksforgeeks.org/problems/friends-pairing-problem5425/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 20,
+   "name": "partition into subset",
+   "ques_link": "https://www.pepcoding.com/resources/online-java-foundation/dynamic-programming-and-greedy/partition-into-subsets-official/ojquestion",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 21,
+   "name": "friends pairing",
+   "ques_link": "https://practice.geeksforgeeks.org/problems/friends-pairing-problem5425/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 22,
+   "name": "paint house ",
+   "ques_link": "https://www.lintcode.com/problem/515/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 23,
+   "name": "tilling 2*1",
+   "ques_link": "https://www.pepcoding.com/resources/online-java-foundation/dynamic-programming-and-greedy/tiling1-official/ojquestion",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 24,
+   "name": "buy and sell stocks 1 transaction allowed",
+   "ques_link": "https://www.pepcoding.com/resources/online-java-foundation/dynamic-programming-and-greedy/buy-and-sell-stocks-ota-official/ojquestion",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 25,
+   "name": "Buy And Sell Stocks - Infinite Transactions Allowed",
+   "ques_link": "https://www.pepcoding.com/resources/online-java-foundation/dynamic-programming-and-greedy/buy-and-sell-stocks-ita-official/ojquestion",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 26,
+   "name": "Buy And Sell Stocks - k Transactions Allowed",
+   "ques_link": "https://www.pepcoding.com/resources/online-java-foundation/dynamic-programming-and-greedy/buy-and-sell-stocks-kta-official/ojquestion",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 27,
+   "name": "Buy And Sell Stocks With Cooldown - Infinite Transaction Allowed",
+   "ques_link": "https://www.pepcoding.com/resources/online-java-foundation/dynamic-programming-and-greedy/buy-and-sell-stocks-cooldown-ita-official/ojquestion",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 28,
+   "name": "Buy And Sell Stocks With Transaction Fee - Infinite Transactions Allowed",
+   "ques_link": "https://www.pepcoding.com/resources/online-java-foundation/dynamic-programming-and-greedy/buy-sell-stocks-transaction-fee-ita-official/ojquestion",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 29,
+   "name": "Buy And Sell Stocks - Two Transactions Allowed",
+   "ques_link": "https://www.pepcoding.com/resources/online-java-foundation/dynamic-programming-and-greedy/buy-sell-stocks-tta-official/ojquestion",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 30,
+   "name": "Longest Increasing Subsequence",
+   "ques_link": "https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence-1587115620/1",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 31,
+   "name": "Maximum sum increasing subsequence",
+   "ques_link": "https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 32,
+   "name": "Longest Bitonic subsequence",
+   "ques_link": "https://practice.geeksforgeeks.org/problems/longest-bitonic-subsequence0824/1",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 33,
+   "name": "Maximum Non-overlapping Bridges",
+   "ques_link": "https://www.pepcoding.com/resources/data-structures-and-algorithms-in-java-levelup/dynamic-programming/max-non-overlapping-bridges-official/ojquestion",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 34,
+   "name": "Russian Doll Envelopes",
+   "ques_link": "https://leetcode.com/problems/russian-doll-envelopes/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 35,
+   "name": "longest mountain",
+   "ques_link": "https://leetcode.com/problems/longest-mountain-in-array/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 36,
+   "name": "maximum length of pair chain",
+   "ques_link": "https://leetcode.com/problems/maximum-length-of-pair-chain/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 37,
+   "name": "box stacking problem",
+   "ques_link": "https://practice.geeksforgeeks.org/problems/box-stacking/1",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 38,
+   "name": "palindromic substring",
+   "ques_link": "https://leetcode.com/problems/palindromic-substrings/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 39,
+   "name": "print longest palindrome",
+   "ques_link": "https://www.geeksforgeeks.org/print-longest-palindromic-subsequence/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 40,
+   "name": "print all path with minimum cost",
+   "ques_link": "https://www.pepcoding.com/resources/data-structures-and-algorithms-in-java-levelup/dynamic-programming/minimum-cost-path-re-official/ojquestion",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 41,
+   "name": "print longest palindrome",
+   "ques_link": "https://www.geeksforgeeks.org/print-longest-palindromic-subsequence/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 42,
+   "name": "print all path with minimum cost",
+   "ques_link": "https://www.pepcoding.com/resources/data-structures-and-algorithms-in-java-levelup/dynamic-programming/minimum-cost-path-re-official/ojquestion",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 43,
+   "name": "print all path with maximum gold",
+   "ques_link": "https://www.pepcoding.com/resources/data-structures-and-algorithms-in-java-levelup/dynamic-programming/goldmine-re-official/ojquestion",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 44,
+   "name": "print all increasing subsequence",
+   "ques_link": "https://www.pepcoding.com/resources/data-structures-and-algorithms-in-java-levelup/dynamic-programming/lis-re-official/ojquestion",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 45,
+   "name": "Print All Results In 0-1 Knapsack",
+   "ques_link": "https://www.pepcoding.com/resources/data-structures-and-algorithms-in-java-levelup/dynamic-programming/zero-one-knapsack-re-official/ojquestion",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 46,
+   "name": "maximal square",
+   "ques_link": "https://leetcode.com/problems/maximal-square/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 47,
+   "name": "matrix chain multiplication",
+   "ques_link": "https://practice.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 48,
+   "name": "print all path with minimum jums",
+   "ques_link": "https://www.pepcoding.com/resources/data-structures-and-algorithms-in-java-levelup/dynamic-programming/min-jumps-re-official/ojquestion",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 49,
+   "name": "maximal square",
+   "ques_link": "https://leetcode.com/problems/maximal-square/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 50,
+   "name": "matrix chain multiplication",
+   "ques_link": "https://practice.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 51,
+   "name": "minimum cost to cut stick",
+   "ques_link": "https://leetcode.com/problems/minimum-cost-to-cut-a-stick/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 52,
+   "name": "burst baloons ",
+   "ques_link": "https://leetcode.com/problems/burst-balloons/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 53,
+   "name": "supper egg drop",
+   "ques_link": "https://leetcode.com/problems/super-egg-drop/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 54,
+   "name": "nth catlan number",
+   "ques_link": "https://practice.geeksforgeeks.org/problems/nth-catalan-number0817/1",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 55,
+   "name": "unique bst",
+   "ques_link": "https://leetcode.com/problems/unique-binary-search-trees/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 56,
+   "name": "nth catlan number",
+   "ques_link": "https://practice.geeksforgeeks.org/problems/nth-catalan-number0817/1",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 57,
+   "name": "unique bst",
+   "ques_link": "https://leetcode.com/problems/unique-binary-search-trees/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 58,
+   "name": "count of valleys and mountains ",
+   "ques_link": "https://www.pepcoding.com/resources/data-structures-and-algorithms-in-java-levelup/dynamic-programming/count-valleys-mountains-official/ojquestion",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 59,
+   "name": "count brackets",
+   "ques_link": "https://www.pepcoding.com/resources/data-structures-and-algorithms-in-java-levelup/dynamic-programming/count-brackets-official/ojquestion",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 60,
+   "name": "circle and chords",
+   "ques_link": "https://www.pepcoding.com/resources/data-structures-and-algorithms-in-java-levelup/dynamic-programming/circle-and-chords-official/ojquestion",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 61,
+   "name": "longest common subsequence",
+   "ques_link": "https://practice.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 62,
+   "name": "longest common substring",
+   "ques_link": "https://practice.geeksforgeeks.org/problems/longest-common-substring1452/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 63,
+   "name": "Minimum Insertion Steps to Make a String Palindrome",
+   "ques_link": "https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 64,
+   "name": "Minimum Insertions/Deletions to Convert String A to String B",
+   "ques_link": "https://www.codingninjas.com/codestudio/problems/can-you-make_4244510?source=youtube&campaign=striver_dp_videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_dp_videos",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 65,
+   "name": "Distinct Subsequences",
+   "ques_link": "https://www.codingninjas.com/codestudio/problems/subsequence-counting_3755256?source=youtube&campaign=striver_dp_videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_dp_videos",
+   "video_link": "",
+   "sol_link": ""
+ }
 ]
