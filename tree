@@ -1,3 +1,226 @@
 [
-    
+ {
+   "sno": 1,
+   "name": "what is complete binary tree?",
+   "ques_link": "",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 2,
+   "name": "what is full binary tree?",
+   "ques_link": "",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 3,
+   "name": "what is perfect binary tree?",
+   "ques_link": "",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 4,
+   "name": "what is balanced binary tree?",
+   "ques_link": "",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 5,
+   "name": "what is skew tree?",
+   "ques_link": "",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 6,
+   "name": "binary tree making with node on compiler",
+   "ques_link": "",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 7,
+   "name": "preorder traversal",
+   "ques_link": "https://leetcode.com/problems/binary-tree-preorder-traversal/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 8,
+   "name": "inorder traversal",
+   "ques_link": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 9,
+   "name": "postorder traversal",
+   "ques_link": "https://leetcode.com/problems/binary-tree-postorder-traversal/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 10,
+   "name": "level order traversal",
+   "ques_link": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 11,
+   "name": "sum , size,max and height",
+   "ques_link": "https://www.pepcoding.com/resources/online-java-foundation/binary-tree/size-sum-max-height-binarytree-official/ojquestion",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 12,
+   "name": "balanced binary tree",
+   "ques_link": "https://leetcode.com/problems/balanced-binary-tree/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 13,
+   "name": "diameter of binary tree",
+   "ques_link": "https://leetcode.com/problems/diameter-of-binary-tree/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 14,
+   "name": "maximum path sum",
+   "ques_link": "https://leetcode.com/problems/binary-tree-maximum-path-sum/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 15,
+   "name": "binary tree zigzag level order",
+   "ques_link": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 16,
+   "name": "vertical order traversal",
+   "ques_link": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 17,
+   "name": "right view of binary tree",
+   "ques_link": "https://leetcode.com/problems/binary-tree-right-side-view/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 18,
+   "name": "top view of binary tree",
+   "ques_link": "https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 19,
+   "name": "bottom view of binary tree",
+   "ques_link": "https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 20,
+   "name": "boundary traversal of binary tree",
+   "ques_link": "https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 21,
+   "name": "path to given node",
+   "ques_link": "https://www.interviewbit.com/problems/path-to-given-node/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 22,
+   "name": "lowest common ancestor",
+   "ques_link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 23,
+   "name": "maximum width of binary tree",
+   "ques_link": "https://leetcode.com/problems/maximum-width-of-binary-tree/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 24,
+   "name": "children sum property",
+   "ques_link": "https://www.codingninjas.com/codestudio/problem-details/childrensumproperty_790723",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 25,
+   "name": "all nodes from k distance of binary tree",
+   "ques_link": "https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 26,
+   "name": "time to burn tree",
+   "ques_link": "https://www.codingninjas.com/codestudio/problems/time-to-burn-tree_630563?source=youtube&amp;campaign=Striver_Tree_Videos&amp;utm_source=youtube&amp;utm_medium=affiliate&amp;utm_campaign=Striver_Tree_Videos",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 27,
+   "name": "Construct Binary Tree from Preorder and Inorder Traversal",
+   "ques_link": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 28,
+   "name": "Construct Binary Tree from postorder and Inorder Traversal",
+   "ques_link": "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 29,
+   "name": "serialize and deserialize binary tree",
+   "ques_link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 30,
+   "name": "morris traversal ",
+   "ques_link": "https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 31,
+   "name": "flatten binary tree",
+   "ques_link": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/",
+   "video_link": "",
+   "sol_link": ""
+ },
+ {
+   "sno": 32,
+   "name": "binary tree colouring",
+   "ques_link": "https://leetcode.com/problems/binary-tree-coloring-game/",
+   "video_link": "",
+   "sol_link": ""
+ }
 ]
